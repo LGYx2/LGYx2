@@ -8,6 +8,10 @@
   <a href="https://github.com/LGYx2/nocap-cloud"><img src="assets/nocap-card.svg" width="460" alt="Nocap Cloud" /></a>
 </p>
 
+### `$ nocap deploy --watch`
+
+<img src="assets/pipeline.svg" width="100%" alt="Nocap Cloud deploy pipeline: git push, Dockerfile, environment and domain flow through build, deploy, SSL and health check into a live app" />
+
 ### `$ cat stack.txt`
 
 <p align="center">
