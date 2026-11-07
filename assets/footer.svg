@@ -1,19 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#8B5CF6"/>
-      <stop offset="100%" stop-color="#4F46E5"/>
-    </linearGradient>
-    <clipPath id="shape">
-      <path d="M0 40C140 8 280 6 420 30C560 54 680 76 820 52C960 28 1080 10 1200 44V120H0Z"/>
-    </clipPath>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="56" viewBox="0 0 880 56" role="img" aria-label="">
   <style>
-    .w1{animation:drift 10s ease-in-out infinite alternate}
-    @keyframes drift{from{transform:translateX(0)}to{transform:translateX(-160px)}}
+    .m{font:500 18px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace;white-space:pre}
+    .cur{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
   </style>
-  <g clip-path="url(#shape)">
-    <rect width="1200" height="120" fill="url(#bg)"/>
-    <path class="w1" d="M-200 70C-40 50 120 96 300 74S600 40 780 66S1080 104 1260 72S1420 60 1500 70V120H-200Z" fill="#FFFFFF" fill-opacity="0.10"/>
-  </g>
+  <rect x="1" y="1" width="878" height="54" rx="10" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+  <text x="28" y="35" class="m"><tspan fill="#22D3EE">ismael@nocap</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">$</tspan></text><text x="202" y="35" class="m" fill="#E6EDF3">exit</text>
+  <rect class="cur" x="252" y="18" width="11" height="22" fill="#22D3EE"/>
 </svg>
