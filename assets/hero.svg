@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="880" height="320" viewBox="0 0 880 320" role="img" aria-label="Ismael Valgy, backend and AI automation engineer, founder of Nocap Cloud">
+  <defs>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.6">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" fill-opacity="0.35"/></pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="878" height="318" rx="12"/></clipPath>
+    <path id="name" d="M100 70h9v9h-9zM110 70h9v9h-9zM120 70h9v9h-9zM130 70h9v9h-9zM140 70h9v9h-9zM120 80h9v9h-9zM120 90h9v9h-9zM120 100h9v9h-9zM120 110h9v9h-9zM120 120h9v9h-9zM100 130h9v9h-9zM110 130h9v9h-9zM120 130h9v9h-9zM130 130h9v9h-9zM140 130h9v9h-9zM170 70h9v9h-9zM180 70h9v9h-9zM190 70h9v9h-9zM200 70h9v9h-9zM160 80h9v9h-9zM160 90h9v9h-9zM170 100h9v9h-9zM180 100h9v9h-9zM190 100h9v9h-9zM200 110h9v9h-9zM200 120h9v9h-9zM160 130h9v9h-9zM170 130h9v9h-9zM180 130h9v9h-9zM190 130h9v9h-9zM220 70h9v9h-9zM260 70h9v9h-9zM220 80h9v9h-9zM230 80h9v9h-9zM250 80h9v9h-9zM260 80h9v9h-9zM220 90h9v9h-9zM240 90h9v9h-9zM260 90h9v9h-9zM220 100h9v9h-9zM240 100h9v9h-9zM260 100h9v9h-9zM220 110h9v9h-9zM260 110h9v9h-9zM220 120h9v9h-9zM260 120h9v9h-9zM220 130h9v9h-9zM260 130h9v9h-9zM290 70h9v9h-9zM300 70h9v9h-9zM310 70h9v9h-9zM280 80h9v9h-9zM320 80h9v9h-9zM280 90h9v9h-9zM320 90h9v9h-9zM280 100h9v9h-9zM290 100h9v9h-9zM300 100h9v9h-9zM310 100h9v9h-9zM320 100h9v9h-9zM280 110h9v9h-9zM320 110h9v9h-9zM280 120h9v9h-9zM320 120h9v9h-9zM280 130h9v9h-9zM320 130h9v9h-9zM340 70h9v9h-9zM350 70h9v9h-9zM360 70h9v9h-9zM370 70h9v9h-9zM380 70h9v9h-9zM340 80h9v9h-9zM340 90h9v9h-9zM340 100h9v9h-9zM350 100h9v9h-9zM360 100h9v9h-9zM370 100h9v9h-9zM340 110h9v9h-9zM340 120h9v9h-9zM340 130h9v9h-9zM350 130h9v9h-9zM360 130h9v9h-9zM370 130h9v9h-9zM380 130h9v9h-9zM400 70h9v9h-9zM400 80h9v9h-9zM400 90h9v9h-9zM400 100h9v9h-9zM400 110h9v9h-9zM400 120h9v9h-9zM400 130h9v9h-9zM410 130h9v9h-9zM420 130h9v9h-9zM430 130h9v9h-9zM440 130h9v9h-9zM490 70h9v9h-9zM530 70h9v9h-9zM490 80h9v9h-9zM530 80h9v9h-9zM490 90h9v9h-9zM530 90h9v9h-9zM490 100h9v9h-9zM530 100h9v9h-9zM490 110h9v9h-9zM530 110h9v9h-9zM500 120h9v9h-9zM520 120h9v9h-9zM510 130h9v9h-9zM560 70h9v9h-9zM570 70h9v9h-9zM580 70h9v9h-9zM550 80h9v9h-9zM590 80h9v9h-9zM550 90h9v9h-9zM590 90h9v9h-9zM550 100h9v9h-9zM560 100h9v9h-9zM570 100h9v9h-9zM580 100h9v9h-9zM590 100h9v9h-9zM550 110h9v9h-9zM590 110h9v9h-9zM550 120h9v9h-9zM590 120h9v9h-9zM550 130h9v9h-9zM590 130h9v9h-9zM610 70h9v9h-9zM610 80h9v9h-9zM610 90h9v9h-9zM610 100h9v9h-9zM610 110h9v9h-9zM610 120h9v9h-9zM610 130h9v9h-9zM620 130h9v9h-9zM630 130h9v9h-9zM640 130h9v9h-9zM650 130h9v9h-9zM680 70h9v9h-9zM690 70h9v9h-9zM700 70h9v9h-9zM710 70h9v9h-9zM670 80h9v9h-9zM670 90h9v9h-9zM670 100h9v9h-9zM690 100h9v9h-9zM700 100h9v9h-9zM710 100h9v9h-9zM670 110h9v9h-9zM710 110h9v9h-9zM670 120h9v9h-9zM710 120h9v9h-9zM680 130h9v9h-9zM690 130h9v9h-9zM700 130h9v9h-9zM730 70h9v9h-9zM770 70h9v9h-9zM730 80h9v9h-9zM770 80h9v9h-9zM740 90h9v9h-9zM760 90h9v9h-9zM750 100h9v9h-9zM750 110h9v9h-9zM750 120h9v9h-9zM750 130h9v9h-9z"/>
+  </defs>
+  <style>
+    .rain{font:600 15px 'JetBrains Mono','Fira Code','Cascadia Code',Menlo,Monaco,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;fill:#22D3EE;fill-opacity:.22;writing-mode:vertical-rl;text-orientation:upright;letter-spacing:4px;animation:fall linear infinite}
+    @keyframes fall{from{transform:translateY(0)}to{transform:translateY(660px)}}
+    .n{animation:on 1.2s steps(1) .2s both}
+    @keyframes on{0%{opacity:0}10%{opacity:1}18%{opacity:.15}26%{opacity:1}34%{opacity:.4}40%,100%{opacity:1}}
+    .g1{animation:g1 3.2s steps(1) 1.6s infinite}
+    .g2{animation:g2 3.2s steps(1) 1.6s infinite}
+    @keyframes g1{0%,86%,100%{transform:translate(0,0);opacity:0}88%{transform:translate(-6px,2px);opacity:.9}91%{transform:translate(5px,-1px);opacity:.9}94%{transform:translate(-3px,0);opacity:.7}}
+    @keyframes g2{0%,86%,100%{transform:translate(0,0);opacity:0}88%{transform:translate(6px,-2px);opacity:.8}91%{transform:translate(-5px,1px);opacity:.8}94%{transform:translate(3px,0);opacity:.6}}
+    .main{animation:shake 3.2s steps(1) 1.6s infinite}
+    @keyframes shake{0%,86%,100%{transform:translate(0,0)}88%{transform:translate(2px,0)}91%{transform:translate(-2px,0)}}
+    .flick{animation:flick 6s steps(1) infinite}
+    @keyframes flick{0%,100%{opacity:1}48%{opacity:.92}50%{opacity:1}73%{opacity:.95}}
+    .m{font:600 20px 'JetBrains Mono','Fira Code','Cascadia Code',Menlo,Monaco,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre}
+    .s{font:500 15px 'JetBrains Mono','Fira Code','Cascadia Code',Menlo,Monaco,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre}
+    .sub{opacity:0;animation:show .01s 1.5s forwards}
+    .curt{animation:type 1.76s steps(32) 1.6s forwards}
+    @keyframes type{to{transform:translateX(394px)}}
+    .tags{opacity:0;animation:show .5s ease-out 3.56s forwards}
+    @keyframes show{to{opacity:1}}
+    .cur{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .sweep{animation:sweep 5s linear infinite}
+    @keyframes sweep{from{transform:translateY(-60px)}to{transform:translateY(380px)}}
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="880" height="320" fill="#06090F"/>
+    <text class="rain" x="10" y="-260" style="animation-duration:10.7s;animation-delay:-4.3s">1A%B{&amp;1#E1A[[</text><text class="rain" x="35" y="-180" style="animation-duration:6.4s;animation-delay:-6.1s">1&amp;BF++&amp;1&amp;</text><text class="rain" x="60" y="-280" style="animation-duration:5.3s;animation-delay:-2.4s">%C&gt;[C%B&amp;&gt;%=DB&amp;</text><text class="rain" x="85" y="-220" style="animation-duration:7.2s;animation-delay:-6.0s">A&amp;1*E$=%[/]</text><text class="rain" x="110" y="-300" style="animation-duration:7.2s;animation-delay:-2.7s">D?FA&amp;&gt;#$/]&gt;*AB#</text><text class="rain" x="135" y="-280" style="animation-duration:6.0s;animation-delay:-3.8s">$[1=A%&amp;//?{*$&amp;</text><text class="rain" x="160" y="-300" style="animation-duration:5.4s;animation-delay:-1.0s">&lt;$?=A1?&gt;+&amp;=]&gt;?}</text><text class="rain" x="185" y="-260" style="animation-duration:5.1s;animation-delay:-5.1s">D*B$1E&gt;CF}}$A</text><text class="rain" x="210" y="-200" style="animation-duration:7.7s;animation-delay:-6.0s">C[%&lt;?[{=}F</text><text class="rain" x="235" y="-200" style="animation-duration:5.5s;animation-delay:-1.7s">=F0$&amp;D&lt;&gt;0C</text><text class="rain" x="260" y="-280" style="animation-duration:8.2s;animation-delay:-6.7s">/C?#*+=1]=%}}}</text><text class="rain" x="285" y="-280" style="animation-duration:5.6s;animation-delay:-7.0s">1EAE]DB/*1B0&amp;C</text><text class="rain" x="310" y="-180" style="animation-duration:10.7s;animation-delay:-6.8s">AE*}C+&lt;{*</text><text class="rain" x="335" y="-260" style="animation-duration:7.8s;animation-delay:-1.3s">$]$$&gt;ACB/&lt;$?D</text><text class="rain" x="360" y="-160" style="animation-duration:6.2s;animation-delay:-10.5s">{C?%0#&gt;+</text><text class="rain" x="385" y="-180" style="animation-duration:9.2s;animation-delay:-2.9s">{D{F%%#/+</text><text class="rain" x="410" y="-220" style="animation-duration:8.7s;animation-delay:-8.7s">EF}FE#${00&lt;</text><text class="rain" x="435" y="-300" style="animation-duration:6.6s;animation-delay:-7.6s">{]{{AFBF$E/E$**</text><text class="rain" x="460" y="-160" style="animation-duration:7.9s;animation-delay:-7.2s">+A=B}?E$</text><text class="rain" x="485" y="-200" style="animation-duration:7.6s;animation-delay:-7.0s">A}]}ADDC0C</text><text class="rain" x="510" y="-300" style="animation-duration:9.8s;animation-delay:-1.6s">*$={C%%C00+B#C[</text><text class="rain" x="535" y="-220" style="animation-duration:10.0s;animation-delay:-2.3s">&lt;E&gt;#F&amp;/&lt;%[C</text><text class="rain" x="560" y="-160" style="animation-duration:10.5s;animation-delay:-3.9s">]=&amp;#[#C%</text><text class="rain" x="585" y="-200" style="animation-duration:8.1s;animation-delay:-0.2s">]D*0CDC$*B</text><text class="rain" x="610" y="-160" style="animation-duration:7.0s;animation-delay:-5.7s">%$B%1FE&lt;</text><text class="rain" x="635" y="-160" style="animation-duration:9.6s;animation-delay:-5.6s">%0A]/*#*</text><text class="rain" x="660" y="-220" style="animation-duration:9.2s;animation-delay:-5.0s">%$#F?#&lt;%E]C</text><text class="rain" x="685" y="-280" style="animation-duration:5.7s;animation-delay:-4.9s">A=F[AE=&gt;BC?+={</text><text class="rain" x="710" y="-200" style="animation-duration:6.5s;animation-delay:-1.5s">]FB}$D=FD?</text><text class="rain" x="735" y="-280" style="animation-duration:11.0s;animation-delay:-4.4s">[E{/A{0/%]]?0}</text><text class="rain" x="760" y="-260" style="animation-duration:8.1s;animation-delay:-3.2s">ABFBA&lt;&lt;1D&lt;C[=</text><text class="rain" x="785" y="-240" style="animation-duration:7.4s;animation-delay:-5.9s">#&amp;$?/A&lt;1?D[A</text><text class="rain" x="810" y="-240" style="animation-duration:10.6s;animation-delay:-7.0s">&lt;A*FA&lt;B]0/%[</text><text class="rain" x="835" y="-240" style="animation-duration:8.7s;animation-delay:-0.5s">?FBD&lt;1DE&gt;+&gt;#</text><text class="rain" x="860" y="-220" style="animation-duration:6.7s;animation-delay:-5.5s">D&lt;{0&lt;100#%E</text><text class="rain" x="885" y="-300" style="animation-duration:6.5s;animation-delay:-4.9s">=+[=$%}#&gt;?EF/E?</text>
+    <rect width="880" height="320" fill="url(#glow)"/>
+    <g class="flick">
+      <g class="n">
+        <use xlink:href="#name" href="#name" class="g1" fill="#58A6FF"/>
+        <use xlink:href="#name" href="#name" class="g2" fill="#A5F3FC"/>
+        <use xlink:href="#name" href="#name" transform="translate(4 4)" fill="#0E7490" fill-opacity="0.55"/>
+        <g class="main"><use xlink:href="#name" href="#name" fill="#22D3EE"/></g>
+      </g>
+      <g class="sub">
+        <text x="236" y="196" class="m"><tspan fill="#22D3EE">&gt; </tspan><tspan fill="#E6EDF3">backend &amp; AI automation engineer</tspan></text>
+        <rect class="curt" x="258" y="174" width="400" height="30" fill="#06090F"/>
+        <rect class="cur" x="650" y="179" width="11" height="22" fill="#22D3EE"/>
+      </g>
+      <g class="tags">
+        <text x="440" y="240" text-anchor="middle" class="s"><tspan fill="#8B949E">[ </tspan><tspan fill="#22D3EE">founder</tspan><tspan fill="#8B949E"> @ nocap cloud ]   [ </tspan><tspan fill="#22D3EE">build</tspan><tspan fill="#8B949E">. ship. secure. ]   [ </tspan><tspan fill="#22D3EE">maputo</tspan><tspan fill="#8B949E">, mz ]</tspan></text>
+      </g>
+    </g>
+    <rect class="sweep" x="0" y="0" width="880" height="60" fill="#22D3EE" fill-opacity="0.035"/>
+    <rect width="880" height="320" fill="url(#scan)"/>
+  </g>
+  <rect x="1" y="1" width="878" height="318" rx="12" fill="none" stroke="#1F2A37" stroke-width="1.5"/>
+</svg>
