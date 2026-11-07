@@ -24,7 +24,7 @@
     .m{font:600 20px 'JetBrains Mono','Fira Code','Cascadia Code',Menlo,Monaco,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre}
     .s{font:500 15px 'JetBrains Mono','Fira Code','Cascadia Code',Menlo,Monaco,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre}
     .sub{opacity:0;animation:show .01s 1.5s forwards}
-    .curt{animation:type 1.76s steps(32) 1.6s forwards}
+    .curt{animation:type 1.76s steps(32) 1.6s forwards,gone .01s 3.41s forwards}@keyframes gone{to{opacity:0}}
     @keyframes type{to{transform:translateX(394px)}}
     .tags{opacity:0;animation:show .5s ease-out 3.56s forwards}
     @keyframes show{to{opacity:1}}
