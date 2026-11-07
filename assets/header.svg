@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="356" viewBox="0 0 1200 356" role="img" aria-label="Terminal: Ismael Valgy, backend and AI automation engineer, founder of Nocap Cloud">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="356" viewBox="0 0 880 356" role="img" aria-label="Terminal: Ismael Valgy, backend and AI automation engineer, founder of Nocap Cloud">
   <style>
     .m{font:500 20px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace;white-space:pre}
     .ttl{font:500 14px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace;fill:#8B949E}
@@ -7,10 +7,10 @@
     @keyframes blink{50%{opacity:0}}
     .l0{opacity:0;animation:show .01s linear 0.40s forwards}.c0{animation:type0 0.42s steps(6) 0.65s forwards}@keyframes type0{to{transform:translateX(76px)}}.l1{opacity:0;animation:show .01s linear 1.42s forwards}.l2{opacity:0;animation:show .01s linear 1.87s forwards}.c2{animation:type2 0.91s steps(13) 2.12s forwards}@keyframes type2{to{transform:translateX(160px)}}.l3{opacity:0;animation:show .01s linear 3.38s forwards}.l4{opacity:0;animation:show .01s linear 3.83s forwards}.c4{animation:type4 0.98s steps(14) 4.08s forwards}@keyframes type4{to{transform:translateX(172px)}}.l5{opacity:0;animation:show .01s linear 5.41s forwards}.l6{opacity:0;animation:show .01s linear 5.86s forwards}
   </style>
-  <rect x="1" y="1" width="1198" height="354" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
-  <path d="M1 13A12 12 0 0 1 13 1H1187A12 12 0 0 1 1199 13V42H1V13Z" fill="#161B22"/>
-  <line x1="1" y1="42" x2="1199" y2="42" stroke="#30363D"/>
+  <rect x="1" y="1" width="878" height="354" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+  <path d="M1 13A12 12 0 0 1 13 1H867A12 12 0 0 1 879 13V42H1V13Z" fill="#161B22"/>
+  <line x1="1" y1="42" x2="879" y2="42" stroke="#30363D"/>
   <circle cx="26" cy="22" r="6" fill="#484F58"/><circle cx="46" cy="22" r="6" fill="#484F58"/><circle cx="66" cy="22" r="6" fill="#484F58"/>
-  <text x="600" y="27" text-anchor="middle" class="ttl">ismael@nocap: ~</text>
+  <text x="440" y="27" text-anchor="middle" class="ttl">ismael@nocap: ~</text>
   <g class="l0"><text x="36" y="96" class="m"><tspan fill="#22D3EE">ismael@nocap</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">$</tspan></text><text x="228" y="96" class="m" fill="#E6EDF3">whoami</text><rect class="c0" x="226" y="72" width="88" height="32" fill="#0D1117"/></g><text x="36" y="132" class="m l1" fill="#8B949E">Ismael Valgy, backend &amp; AI automation engineer</text><g class="l2"><text x="36" y="168" class="m"><tspan fill="#22D3EE">ismael@nocap</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">$</tspan></text><text x="228" y="168" class="m" fill="#E6EDF3">cat stack.txt</text><rect class="c2" x="226" y="144" width="172" height="32" fill="#0D1117"/></g><text x="36" y="204" class="m l3" fill="#8B949E">java  spring-boot  node  python  postgres  linux</text><g class="l4"><text x="36" y="240" class="m"><tspan fill="#22D3EE">ismael@nocap</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">$</tspan></text><text x="228" y="240" class="m" fill="#E6EDF3">nocap --status</text><rect class="c4" x="226" y="216" width="184" height="32" fill="#0D1117"/></g><text x="36" y="276" class="m l5" fill="#8B949E"><tspan fill="#22D3EE">[founder]</tspan><tspan fill="#8B949E"> Nocap Cloud: open source deployment panel, in development</tspan></text><g class="l6"><text x="36" y="312" class="m"><tspan fill="#22D3EE">ismael@nocap</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">$</tspan></text><text x="228" y="312" class="m" fill="#E6EDF3"></text><rect class="cur" x="230" y="293" width="12" height="24" fill="#22D3EE"/></g>
 </svg>
