@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Terminal: Ismael Valgy, backend and AI automation engineer, founder of Nocap Cloud" />
+<img src="assets/hero.svg" width="100%" alt="Ismael Valgy, backend and AI automation engineer, founder of Nocap Cloud" />
 
 <img src="assets/neofetch.svg" width="100%" alt="neofetch: Ismael Valgy, backend and AI automation engineer in Maputo, founder of Nocap Cloud" />
 
